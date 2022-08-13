@@ -2,6 +2,8 @@
 
 在 Linux 练习和 PyTorch 练习中，我们使用过一个前后端耦合的 [Leaderboard](http://121.5.165.232:14000/)。在 Django 课程中，我们已经为前后端分离的 LeaderBoard 实现了单独的后端，现在我们希望为其实现前端部分。
 
+[示例前端地址](https://github.com/ayf19/SAST-2022-Frontend-Sample)
+
 ## 功能简介
 
 与我们之前使用的 PyTorch Leaderboard 一样，我们需要完成的基本功能包括：
